@@ -1,6 +1,6 @@
 # MQTT
 
-# go to wiki for step by step procedure 
+# Go to wiki for step by step procedure 
 ### MQTT is a simple messaging protocol, designed for constrained devices with low-bandwidth.
 ### In MQTT there are a few basic concepts that you need to understand:
 
